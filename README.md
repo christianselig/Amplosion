@@ -1,2 +1,1 @@
-# Amplosion
-The remains of the source code for Amplosion
+Hey, sorry if you're looking for the codebase for Amplosion. The source was available for the first bit of Amplosion's life in the interest of making it clear/transparent and easy to audit that the app/extension respects your privacy and does everything on-device (in short: no funny business here!) Unfortunately there were some issues causing headaches, such as people taking the codebase and trying to sell/distribute it as their own. It was stressful and time-consuming to deal with, and I'd rather spend that time making this app and my other apps better! However, in lieu of that, if you have any questions or concerns at all I'm happy to answer them, just hit me up at contact@amplosion.app
